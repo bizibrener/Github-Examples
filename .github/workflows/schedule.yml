@@ -1,3 +1,5 @@
+name: crontab
+
 on:
   schedule:
     - cron: '*/2 * * * *'
